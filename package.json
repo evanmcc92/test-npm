@@ -1,6 +1,6 @@
 {
   "name": "@evanmcc92/test-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,9 +14,7 @@
   "bugs": {
     "url": "https://github.com/evanmcc92/test-npm/issues"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "homepage": "https://github.com/evanmcc92/test-npm#readme",
   "description": ""
 }
+
